@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlphaCryptoWolf
-- 👀 I’m interested in the Blockchain System and thereby in NFTs
+- 👀 I'm interested in the blockchain system and thus in NFTs
 - 🌱 I’m currently building a NFT collection on my own. Its name is Crypto.Wolfs.
 - 📫 You can reach me through my E-mail: alphacryptowolf10.000@gmail.com
 
